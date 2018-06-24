@@ -15,8 +15,10 @@ After initially downloading a small sample size of the Pittsburgh area and runni
 * Uncommon street names (“Colby Terrace”, “Federal Street Extension”, “Boulevard of the Allies”)
 * Incorrect postal code (Pittsburgh area zip codes all begin with “15” - found that one of the postal codes was "14233" which has to be "15233")
 * Street names in second level “k” tags pulled from Tiger GPS data and divided into segments, in the following format:
+```xml
     <tag k="tiger:name_base" v="Sorrell"/>
     <tag k="tiger:name_type" v="St"/>
     <tag k="tiger:reviewed" v="no"/>
     <tag k="tiger:zip_left" v="15212"/>
     <tag k="tiger:zip_right" v="15212"/>
+```
