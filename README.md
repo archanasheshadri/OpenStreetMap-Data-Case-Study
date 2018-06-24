@@ -1,5 +1,7 @@
-# OpenStreetMap-Data-Case-Study
+# OpenStreetMap Data Case Study Using SQL
 
+## Student Name:
+Archana Sheshadri
 ## Map Area
 Pittsburgh,PA, United States
 
