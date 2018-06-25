@@ -9,10 +9,9 @@ This place is where I have moved recently, so I’m more interested to see to kn
 
 ## Problems Encountered in the Map
 
-After initially downloading a small sample size of the Pittsburgh area and running it against a provisional .py file, I noticed three main problems with the data, which I will discuss in the following order:
+After initially downloading a small sample size(sample_file.py) of the Pittsburgh area and running it against a inspect_street_names.py file, I noticed three main problems with the data, which I will discuss in the following order:
 
 * Abbreviated street names (“S Graham St”, "E Warrington Ave")
-* There were also many uncommon street names like 'Terrace' which had to be identified to consider it valid.
 * Incorrect postal code (Pittsburgh area zip codes all begin with “15” - found that one of the postal codes was "14233" which has to be "15233")
 * Street names in second level “k” tags pulled from Tiger GPS data and divided into segments, in the following format:
 ```xml
@@ -21,7 +20,9 @@ After initially downloading a small sample size of the Pittsburgh area and runni
     <tag k="tiger:reviewed" v="no"/>
     <tag k="tiger:zip_left" v="15212"/>
     <tag k="tiger:zip_right" v="15212"/>
+
 ```
+There were also many uncommon street names like 'Terrace' which had to be identified to consider it valid.
 
 ## Inspecting Street Names
 Using inspect_street_name.py, I noticed there were few abbreviated street names and one inconsistent postal code. 
