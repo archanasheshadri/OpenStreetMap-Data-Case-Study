@@ -29,7 +29,7 @@ Using inspect_street_name.py, I noticed there were few abbreviated street names 
 
 '15213-2712', '15213-1500', '15213-1503', '15213-1502', '15213-1405', '15213-1400', '15213-2911', '15232-1418', '15260', '15233', '15213-1713', '15205', '15222', '15207', '15206', '15201', '15226', '15203', '15224', '15240', '15209', '15213-1704', '15213-1705', '15213-2608', '15232-1803', '15213-1530', '15232-1845', '15213-1763', '15232-2131', **'14233'**, '15220', '15213-4026', '15232-1421', '15213-3704', '15232-1419', '15213-2909', '15136', '15290', '15239', '15216', '15214', '15212', '15213', '15210', '15211', '15232-2106', '15232-1447', '15232', '15219', '15203-2275', '15213-1678', '15210-1845', '15213-1738'
 
-## Udating street names and saving it into a csv file
+## Updating street names and saving it into a csv file
 
 To correct the street names, I iterated over each word since the street names were abbreviated at multiple postions in an address using preparing_for_database.py.
 
@@ -57,5 +57,20 @@ def audit(element):
 ```
 
 The above code updates the abbreviated street name and updates the variable to write in the csv file.
+
+
+After updating the street names and writing into csv files, the files were loaded into SQLite database.
+
+## Count of data in each table
+
+Getting to know the total number of records in each table.
+
+```SQL
+SELECT COUNT(*) FROM NODES;
+```
+
+```
+426469
+```
 
 
