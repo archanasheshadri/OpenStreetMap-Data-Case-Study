@@ -12,6 +12,7 @@ This place is where I have moved recently, so I’m more interested to see to kn
 After initially downloading a small sample size of the Pittsburgh area and running it against a provisional .py file, I noticed three main problems with the data, which I will discuss in the following order:
 
 * Abbreviated street names (“S Graham St”, "E Warrington Ave")
+* There were also many uncommon street names like 'Terrace' which had to be identified to consider it valid.
 * Incorrect postal code (Pittsburgh area zip codes all begin with “15” - found that one of the postal codes was "14233" which has to be "15233")
 * Street names in second level “k” tags pulled from Tiger GPS data and divided into segments, in the following format:
 ```xml
@@ -61,16 +62,282 @@ The above code updates the abbreviated street name and updates the variable to w
 
 After updating the street names and writing into csv files, the files were loaded into SQLite database.
 
-## Count of data in each table
+## Check the changes done to the street names
 
-Getting to know the total number of records in each table.
+Let's check if the street names are updated in the file. As mentioned above there were few street names which were abbreviated. To verify I query the database with an example 'N Dithridge St'. 
+```SQL
+select tags.value
+FROM (select * from ways_tags
+union all
+select * from nodes_tags) tags
+where tags.key = 'street' and
+tags.value like '%Dithridge%';
+```
+```
+"North Dithridge Street"
+"North Dithridge Street"
+"Dithridge Street"
+"North Dithridge Street"
+"Dithridge Street"
+"Dithridge Street"
+"Dithridge Street"
+"South Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+"North Dithridge Street"
+```
+All the entries are updates with full street names.
+
+## Count of postal codes
+
+Let's see the top 10 postal codes for the city of Pittsburgh.
 
 ```SQL
-SELECT COUNT(*) FROM NODES;
+select tags.value, count(*) as count
+FROM (select * from ways_tags
+union all
+select * from nodes_tags) tags
+where tags.key = 'postcode' 
+group by tags.value
+order by count desc
+limit 10;
+```
+```
+15214,2490
+15216,1459
+15203,509
+15222,253
+15213,162
+15233,63
+15232,60
+15206,53
+15219,49
+15201,35
+```
+
+We can see that most of the postal codes are consistent, except for one mistake which I mentioned earlier. Also we must note that the Tiger GPS data is not accounted for in this query.
+
+## Count of cities
+
+Let's move on to know all the city names.
+
+```SQL
+SELECT tags.value, COUNT(*) as count 
+FROM (SELECT * FROM nodes_tags 
+UNION ALL 
+SELECT * FROM ways_tags) tags
+WHERE tags.key = 'city'
+GROUP BY tags.value
+ORDER BY count DESC;
+```
+```
+Pittsburgh,3459
+"Pittsburgh, PA",54
+"McKees Rocks",16
+Pittburgh,4
+Pittsburg,3
+"Stowe Twp",3
+"Mt. Washington",1
+Oakland,1
+Pittsburh,1
+pittsburgh,1
+```
+
+We can see the majority of the entries are from Pittsburgh city. Also we can see that there are typos and as a result there multiple entries for the same name Pittsburgh.
+
+## File sizes
+The below python code helps to find the file sizes:
+
+```Python
+print ('Main file:', os.path.getsize('C:\\Users\\archa\\Nanodegree\\Data wrangling\\map.osm'))
+print ('Sample file:' ,os.path.getsize('C:\\Users\\archa\\Nanodegree\\Data wrangling\\sample.osm'))
+print ('Nodes file:', os.path.getsize('C:\\Users\\archa\\Nanodegree\\Data wrangling\\nodes.csv'))
+print ('Nodes_tags file:',os.path.getsize('C:\\Users\\archa\\Nanodegree\\Data wrangling\\nodes_tags.csv'))
+print ('Ways file:',os.path.getsize('C:\\Users\\archa\\Nanodegree\\Data wrangling\\ways.csv'))
+print ('Ways_tags file:',os.path.getsize('C:\\Users\\archa\\Nanodegree\\Data wrangling\\ways_tags.csv'))
+print ('Ways_nodes file:',os.path.getsize('C:\\Users\\archa\\Nanodegree\\Data wrangling\\ways_nodes.csv'))
+```
+Below is the result in bytes
+
+```
+('Main file:', 102548744L)
+('Sample file:', 10365308L)
+('Nodes file:', 2538424L)
+('Nodes_tags file:', 63858L)
+('Ways file:', 350649L)
+('Ways_tags file:', 409930L)
+('Ways_nodes file:', 872715L)
+```
+
+## Numer of nodes and ways
+
+```SQL
+SELECT COUNT(*) FROM nodes;
+```
+426469
+
+```SQL
+SELECT COUNT(*) FROM ways;
+```
+79710
+
+## Number of unique users
+
+```SQL
+SELECT COUNT(DISTINCT(uid))          
+FROM (SELECT uid FROM nodes UNION ALL SELECT uid FROM ways);
+```
+448
+
+
+## Additional statistics
+
+### Top 10 contributing users
+```SQL
+SELECT user, COUNT(*) as count
+FROM (SELECT user FROM nodes UNION ALL SELECT user FROM ways) 
+GROUP BY user
+ORDER BY count DESC
+LIMIT 10; 
 ```
 
 ```
-426469
+doktorpixel14_import,145917
+GeoKitten_import,93042
+cowdog,54528
+Omnific,48934
+tmb926,30876
+GeoKitten,29214
+abbafei,20189
+Roadsguy,9961
+mdroads,6788
+wegavision,4472
 ```
+
+
+### Top 10 amenities in Pittsburgh
+
+```SQL
+SELECT value, COUNT(*) as count
+FROM nodes_tags
+WHERE key='amenity'
+GROUP BY value
+ORDER BY count DESC
+limit 10;
+```
+
+```
+restaurant,151
+place_of_worship,101
+school,87
+bench,63
+waste_basket,62
+bicycle_parking,54
+library,52
+post_box,50
+fast_food,40
+cafe,37
+```
+
+Restaurants seems to be the top amenity. Let's have a look at top 10 cusines.
+
+```SQL
+SELECT value, COUNT(*) as count
+FROM nodes_tags
+WHERE key='cuisine'
+GROUP BY value
+ORDER BY count DESC
+limit 10;
+```
+```
+pizza,15
+coffee_shop,14
+sandwich,12
+american,8
+italian,6
+burger,5
+mexican,5
+chinese,4
+asian,3
+indian,3
+```
+We can see that Pizza is most available food.
+
+### Popular tourism places
+
+```SQL
+SELECT tags.value, COUNT() as count
+FROM (SELECT * FROM nodes_tags UNION ALL
+SELECT * FROM ways_tags) tags
+WHERE tags.key = 'tourism'
+GROUP BY tags.value
+ORDER BY count DESC;
+```
+```
+hotel,38
+artwork,19
+museum,18
+viewpoint,10
+attraction,7
+guest_house,2
+hostel,2
+picnic_site,2
+theme_park,2
+Botanical_garden,1
+information,1
+```
+
+## Additional ideas
+```SQL
+SELECT COUNT(*) FROM nodes;
+```
+426469
+
+```SQL
+SELECT COUNT(*) FROM nodes_tags WHERE key='wheelchair';
+```
+58
+
+When I look at the wheelchair accessibility for the nodes, its just 58 out of 426469. Also this information could be updated for the amenities, restaurants and other popular public places.
+
+### Ideas for improvement of the dataset
+
+* We can try to control typos and other irregular data by creating a filter for the information entered.
+* We can restrict the users to type in wrong data by creating validating(incorporating some rules) steps while the data is being entered.
+
+## Conclusion
+
+Based on the analysis done to the data, I would say that the data for Pittsburgh was fairly clean. There could be more cleaning and validating done to the Tiger GPS data which is not covered in this analysis. 
+The dataset contains very less amount of additional information such as amenities, tourist attractions, popular places and other useful interest. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
