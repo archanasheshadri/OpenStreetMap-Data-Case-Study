@@ -1,0 +1,1701 @@
+id,key,value,type
+34184938,is_in,Pennsylvania,regular
+34184938,continent,North America,is_in
+34184938,country,USA,is_in
+34184938,name,Pittsburgh,regular
+34184938,he,פיטסבורג,name
+34184938,pdc,Pittsbarig,name
+34184938,ru,Питтсбург,name
+34184938,place,city,regular
+34184938,population,311647,regular
+34184938,short_name,PGH,regular
+34184938,wikidata,Q1342,regular
+34184938,wikipedia,en:Pittsburgh,regular
+104379366,highway,turning_circle,regular
+104472649,highway,traffic_signals,regular
+104480398,odbl,clean,regular
+104563327,odbl,clean,regular
+104573452,highway,traffic_signals,regular
+104593045,odbl,clean,regular
+104630296,highway,traffic_signals,regular
+104663452,highway,traffic_signals,regular
+104675388,highway,crossing,regular
+104695476,highway,traffic_signals,regular
+104728862,odbl,clean,regular
+104728862,note,Coorniates changed from Undecided User's location.,odbl
+104844001,highway,traffic_signals,regular
+104852066,highway,traffic_signals,regular
+104990049,highway,traffic_signals,regular
+104992435,highway,traffic_signals,regular
+104998262,highway,traffic_signals,regular
+104998262,odbl,clean,regular
+105009312,highway,traffic_signals,regular
+105012793,highway,traffic_signals,regular
+105060928,highway,traffic_signals,regular
+105097632,highway,traffic_signals,regular
+105100352,highway,traffic_signals,regular
+105142425,highway,turning_circle,regular
+105142425,source,bing,regular
+105242769,highway,traffic_signals,regular
+105688775,highway,traffic_signals,regular
+105705449,highway,traffic_signals,regular
+105710593,highway,traffic_signals,regular
+105731704,highway,traffic_signals,regular
+105739134,highway,traffic_signals,regular
+105875848,highway,stop,regular
+105917274,odbl,clean,regular
+105963863,highway,traffic_signals,regular
+106011401,highway,traffic_signals,regular
+106060182,highway,turning_circle,regular
+106060182,source,bing,regular
+106070720,odbl,clean,regular
+154011984,ele,334,regular
+154011984,gnis:Class,Populated Place,regular
+154011984,gnis:County,Allegheny,regular
+154011984,gnis:County_num,003,regular
+154011984,gnis:ST_alpha,PA,regular
+154011984,gnis:ST_num,42,regular
+154011984,id,1192119,gnis
+154011984,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+154011984,is_in,"Allegheny,Pennsylvania,Pa.,PA,USA",regular
+154011984,name,Beltzhoover,regular
+154011984,place,neighbourhood,regular
+154402243,ele,278,regular
+154402243,gnis:Class,Populated Place,regular
+154402243,gnis:County,Allegheny,regular
+154402243,gnis:County_num,003,regular
+154402243,gnis:ST_alpha,PA,regular
+154402243,gnis:ST_num,42,regular
+154402243,id,1202804,gnis
+154402243,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+154402243,is_in,"Allegheny,Pennsylvania,Pa.,PA,USA",regular
+154402243,name,Perry North,regular
+154402243,place,neighbourhood,regular
+158380292,ele,340,regular
+158380292,gnis:Class,Populated Place,regular
+158380292,gnis:County,Allegheny,regular
+158380292,gnis:County_num,003,regular
+158380292,gnis:ST_alpha,PA,regular
+158380292,gnis:ST_num,42,regular
+158380292,id,1202833,gnis
+158380292,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158380292,is_in,"Allegheny,Pennsylvania,Pa.,PA,USA",regular
+158380292,name,Garfield,regular
+158380292,place,neighbourhood,regular
+158380292,population,3675,regular
+158380292,wikidata,Q5523043,regular
+158380292,wikipedia,en:Garfield (Pittsburgh),regular
+216036771,created_by,JOSM,regular
+216036926,created_by,JOSM,regular
+216037060,created_by,JOSM,regular
+270186903,odbl,clean,regular
+271197435,highway,traffic_signals,regular
+271201786,railway,railway_crossing,regular
+271203169,bus,yes,regular
+271203169,name,Palm Garden,regular
+271203169,public_transport,stop_position,regular
+271203169,tram,yes,regular
+271203169,wheelchair,no,regular
+271203169,wikidata,Q7128035,regular
+271209921,wikidata,Q5432444,regular
+278023801,amenity,post_box,regular
+278023801,created_by,Potlatch 0.9c,regular
+281362844,highway,traffic_signals,regular
+303346812,bus,yes,regular
+303346812,public_transport,stop_position,regular
+303455197,historic,monument,regular
+312632777,highway,bus_stop,regular
+312632777,note,Routes 44U 501 61A 61B 61C 67A 67C 67E 67F 67J 61D,regular
+312632777,operator,Port Authority Pittsburgh,regular
+312632777,shelter,no,regular
+314498698,highway,traffic_signals,regular
+339255251,highway,traffic_signals,regular
+357293673,ele,312,regular
+357293673,leisure,playground,regular
+357293673,name,Kennard Playground,regular
+357308062,amenity,school,regular
+357308062,ele,221,regular
+357308062,county_id,003,gnis
+357308062,created,08/02/1979,gnis
+357308062,feature_id,1186032,gnis
+357308062,state_id,42,gnis
+357308062,name,Saint James School,regular
+357317418,amenity,school,regular
+357317418,ele,348,regular
+357317418,county_id,003,gnis
+357317418,created,08/02/1979,gnis
+357317418,feature_id,1189992,gnis
+357317418,state_id,42,gnis
+357317418,name,12th Ward School,regular
+357334470,authority,Pennsylvania Historical and Museum Comission,regular
+357334470,ele,271,regular
+357334470,county_id,003,gnis
+357334470,created,08/30/1990,gnis
+357334470,feature_id,1198151,gnis
+357334470,state_id,42,gnis
+357334470,historic,marker,regular
+357334470,marker_date,2006/7/7,regular
+357334470,name,Forbes Field Oufield Wall and Flagpole,regular
+357334470,wikidata,Q1963954,regular
+357334470,wikipedia,en:Forbes Field,regular
+357361462,amenity,school,regular
+357361462,ele,223,regular
+357361462,county_id,003,gnis
+357361462,created,08/30/1990,gnis
+357361462,feature_id,1211399,gnis
+357361462,state_id,42,gnis
+357361462,name,Spring Garden Elementary School,regular
+357374990,amenity,place_of_worship,regular
+357374990,ele,287,regular
+357374990,county_id,003,gnis
+357374990,created,05/28/2008,gnis
+357374990,feature_id,2430320,gnis
+357374990,state_id,42,gnis
+357374990,name,Blessed Nunzio Sulprizio Shrine,regular
+357375403,amenity,place_of_worship,regular
+357375403,denomination,methodist,regular
+357375403,ele,290,regular
+357375403,county_id,003,gnis
+357375403,created,05/28/2008,gnis
+357375403,feature_id,2430438,gnis
+357375403,state_id,42,gnis
+357375403,name,Emanuel United Methodist Church,regular
+357375403,religion,christian,regular
+357375780,amenity,place_of_worship,regular
+357375780,ele,236,regular
+357375780,county_id,003,gnis
+357375780,created,05/28/2008,gnis
+357375780,feature_id,2431016,gnis
+357375780,state_id,42,gnis
+357375780,name,Light of Life Rescue Mission,regular
+357376234,amenity,place_of_worship,regular
+357376234,denomination,baptist,regular
+357376234,ele,283,regular
+357376234,county_id,003,gnis
+357376234,created,05/28/2008,gnis
+357376234,feature_id,2431102,gnis
+357376234,state_id,42,gnis
+357376234,name,New Pilgrim Baptist Church,regular
+357376234,religion,christian,regular
+357377163,amenity,place_of_worship,regular
+357377163,denomination,lutheran,regular
+357377163,ele,369,regular
+357377163,county_id,003,gnis
+357377163,created,05/28/2008,gnis
+357377163,feature_id,2431356,gnis
+357377163,state_id,42,gnis
+357377163,name,Trinity Evangelical Lutheran Church,regular
+357377163,religion,christian,regular
+357377452,amenity,place_of_worship,regular
+357377452,denomination,methodist,regular
+357377452,ele,321,regular
+357377452,county_id,003,gnis
+357377452,created,05/28/2008,gnis
+357377452,feature_id,2431448,gnis
+357377452,state_id,42,gnis
+357377452,name,John Wesley African Methodist Episcopal Zion Church,regular
+357377452,religion,christian,regular
+357377645,amenity,school,regular
+357377645,ele,225,regular
+357377645,county_id,003,gnis
+357377645,created,05/28/2008,gnis
+357377645,feature_id,2431515,gnis
+357377645,state_id,42,gnis
+357377645,name,Propel Charter School Homestead,regular
+357378017,amenity,school,regular
+357378017,ele,279,regular
+357378017,county_id,003,gnis
+357378017,created,05/28/2008,gnis
+357378017,feature_id,2431629,gnis
+357378017,state_id,42,gnis
+357378017,name,Woolslair Elementary School,regular
+357378017,wikidata,Q8033934,regular
+357379042,amenity,school,regular
+357379042,ele,348,regular
+357379042,county_id,003,gnis
+357379042,created,05/28/2008,gnis
+357379042,feature_id,2431995,gnis
+357379042,state_id,42,gnis
+357379042,name,Chatham Elementary School,regular
+367958090,state,PA,addr
+367958090,building,yes,regular
+367958090,ele,233,regular
+367958090,county_name,Allegheny,gnis
+367958090,feature_id,1196506,gnis
+367958090,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367958090,reviewed,no,gnis
+367958090,name,Pittsburgh Brewing Company,regular
+367958090,source,USGS Geonames,regular
+367958206,city,Pittsburgh,addr
+367958206,country,US,addr
+367958206,state,PA,addr
+367958206,ele,253,regular
+367958206,county_name,Allegheny,gnis
+367958206,feature_id,1196604,gnis
+367958206,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367958206,reviewed,no,gnis
+367958206,name,West Belt Junction Station,regular
+367958206,railway,abandoned_station,regular
+367958206,source,USGS Geonames,regular
+367960590,state,PA,addr
+367960590,building,yes,regular
+367960590,ele,236,regular
+367960590,county_name,Allegheny,gnis
+367960590,feature_id,2430203,gnis
+367960590,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367960590,reviewed,no,gnis
+367960590,name,Capuchin Provincial Office,regular
+367960590,source,USGS Geonames,regular
+367960928,state,PA,addr
+367960928,building,yes,regular
+367960928,ele,223,regular
+367960928,county_name,Allegheny,gnis
+367960928,feature_id,2430677,gnis
+367960928,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367960928,reviewed,no,gnis
+367960928,name,Renaissance Center,regular
+367960928,source,USGS Geonames,regular
+367963397,state,PA,addr
+367963397,amenity,fire_station,regular
+367963397,ele,283,regular
+367963397,county_name,Allegheny,gnis
+367963397,feature_id,2430011,gnis
+367963397,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367963397,reviewed,no,gnis
+367963397,name,Fire Station Number 36,regular
+367963397,source,USGS Geonames,regular
+367963638,state,PA,addr
+367963638,amenity,kindergarten,regular
+367963638,ele,296,regular
+367963638,county_name,Allegheny,gnis
+367963638,feature_id,2430165,gnis
+367963638,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367963638,reviewed,no,gnis
+367963638,name,Little Angels Child Care and Learning Center,regular
+367963638,source,USGS Geonames,regular
+367964352,state,PA,addr
+367964352,amenity,library,regular
+367964352,ele,236,regular
+367964352,county_name,Allegheny,gnis
+367964352,feature_id,2429814,gnis
+367964352,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367964352,reviewed,no,gnis
+367964352,name,Allegheny County Library Association Bookmobile Center Library,regular
+367964352,source,USGS Geonames,regular
+367964786,state,PA,addr
+367964786,amenity,library,regular
+367964786,ele,328,regular
+367964786,county_name,Allegheny,gnis
+367964786,feature_id,2430527,gnis
+367964786,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367964786,reviewed,no,gnis
+367964786,name,Milliones Middle School Library,regular
+367964786,source,USGS Geonames,regular
+367965597,state,PA,addr
+367965597,amenity,library,regular
+367965597,ele,295,regular
+367965597,county_name,Allegheny,gnis
+367965597,feature_id,2430872,gnis
+367965597,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367965597,reviewed,no,gnis
+367965597,name,Weil Elementary School Library,regular
+367965597,source,USGS Geonames,regular
+367966245,state,PA,addr
+367966245,amenity,public_building,regular
+367966245,ele,282,regular
+367966245,county_name,Allegheny,gnis
+367966245,feature_id,2429812,gnis
+367966245,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367966245,reviewed,no,gnis
+367966245,name,Allegheny County Health Department,regular
+367966245,source,USGS Geonames,regular
+367967505,state,PA,addr
+367967505,amenity,theatre,regular
+367967505,ele,227,regular
+367967505,county_name,Allegheny,gnis
+367967505,feature_id,2430668,gnis
+367967505,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367967505,reviewed,no,gnis
+367967505,name,Quantum Theatre,regular
+367967505,source,USGS Geonames,regular
+367973785,state,PA,addr
+367973785,building,yes,regular
+367973785,ele,280,regular
+367973785,county_name,Allegheny,gnis
+367973785,feature_id,2430655,gnis
+367973785,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367973785,reviewed,no,gnis
+367973785,name,Potak House,regular
+367973785,source,USGS Geonames,regular
+392974201,highway,bus_stop,regular
+392974201,shelter,yes,regular
+393775680,city,Pittsburgh,addr
+393775680,country,US,addr
+393775680,housenumber,5503,addr
+393775680,postcode,15232,addr
+393775680,state,PA,addr
+393775680,street,Centre Avenue,addr
+393775680,name,Consignments on Centre,regular
+393775680,shop,clothes,regular
+412045704,street,Liberty Avenue,addr
+412045704,amenity,cafe,regular
+412045704,cuisine,coffee_shop,regular
+412045704,name,Crazy Mocha,regular
+412045704,source,survey,regular
+412045704,wifi,free,regular
+529747820,highway,traffic_signals,regular
+538153633,name,Shiras,regular
+538153633,network,PAT,regular
+538153633,operator,Port Authority of Allegheny County,regular
+538153633,public_transport,stop_position,regular
+538153633,tram,yes,regular
+539752150,name,Penn Station,regular
+539752150,network,PAT,regular
+539752150,operator,Port Authority of Allegheny County,regular
+539752150,public_transport,stop_position,regular
+539752150,tram,yes,regular
+683653535,highway,motorway_junction,regular
+683653535,old_ref,4A,regular
+683653535,ref,67,regular
+683704688,crossing,traffic_signals,regular
+683704688,highway,crossing,regular
+683704688,source,bing,regular
+683791756,highway,crossing,regular
+683791756,source,bing,regular
+684667052,highway,traffic_signals,regular
+684842320,highway,motorway_junction,regular
+684842320,noref,yes,regular
+684842468,highway,traffic_signals,regular
+684861901,highway,motorway_junction,regular
+684861901,ref,1A,regular
+684907625,highway,traffic_signals,regular
+685106682,highway,traffic_signals,regular
+686445829,highway,traffic_signals,regular
+687084720,amenity,bus_station,regular
+687084720,bus,yes,regular
+687084720,highway,bus_stop,regular
+687084720,name,East Liberty Station,regular
+687084720,network,PAT,regular
+687084720,operator,Port Authority of Allegheny County,regular
+687084720,public_transport,stop_position,regular
+687084720,source,bing;http://www.portauthority.org/PAAC/apps/maps/P1.pdf,regular
+687084720,wheelchair,yes,regular
+687149557,highway,traffic_signals,regular
+687154275,highway,motorway_junction,regular
+687154275,noref,yes,regular
+689934347,highway,traffic_signals,regular
+693419153,railway,level_crossing,regular
+693562071,name,Pittsburgh Union Station,regular
+693562071,network,Amtrak,regular
+693562071,operator,Amtrak,regular
+693562071,public_transport,stop_position,regular
+693562071,ref,PGH,regular
+693562071,train,yes,regular
+736437290,crossing,traffic_signals,regular
+736437290,highway,crossing,regular
+1039985038,power,tower,regular
+1039985198,power,tower,regular
+1039985381,power,tower,regular
+1040008370,power,tower,regular
+1040008426,power,tower,regular
+1040008455,power,tower,regular
+1040818167,power,tower,regular
+1040818190,power,tower,regular
+1045129714,power,tower,regular
+1142716153,power,tower,regular
+1142716201,power,tower,regular
+1142716261,power,tower,regular
+1142716306,power,tower,regular
+1152028822,amenity,restaurant,regular
+1152028822,cuisine,asian,regular
+1152028822,name,Thai Gourmet,regular
+1203840691,amenity,post_box,regular
+1214351212,amenity,pub,regular
+1214351212,name,Hofbräuhaus,regular
+1242800370,highway,traffic_signals,regular
+1252119214,crossing,uncontrolled,regular
+1252119214,highway,crossing,regular
+1252119214,source,bing,regular
+1253594753,power,tower,regular
+1253594753,source,bing,regular
+1254876462,highway,turning_circle,regular
+1288177026,power,tower,regular
+1288282487,power,tower,regular
+1288282544,power,tower,regular
+1288671685,power,tower,regular
+1323944617,power,pole,regular
+1323944652,power,pole,regular
+1323944693,power,pole,regular
+1355998847,entrance,main,regular
+1355998847,wheelchair,no,regular
+1362263142,highway,traffic_signals,regular
+1460625748,crossing,traffic_signals,regular
+1460625748,highway,crossing,regular
+1585016721,leisure,swimming_pool,regular
+1598833803,crossing,traffic_signals,regular
+1598833803,highway,crossing,regular
+1598833833,crossing,traffic_signals,regular
+1598833833,highway,crossing,regular
+1598833926,bus,yes,regular
+1598833926,highway,bus_stop,regular
+1598833926,name,Liberty Ave at Wyndham Grand,regular
+1598833926,public_transport,stop_position,regular
+1598833926,ref,4126,regular
+1666922256,amenity,theatre,regular
+1666922256,name,Charity Randall Theatre,regular
+1666922256,operator,University of Pittsburgh,regular
+1666922256,website,http://www.play.pitt.edu/,regular
+1707487974,amenity,restaurant,regular
+1707487974,name,Kaleidoscope Cafe,regular
+1784102246,highway,bus_stop,regular
+1784102246,shelter,no,regular
+1784102246,source,survey,regular
+1785427173,amenity,bench,regular
+1785427173,backrest,yes,regular
+1785427173,source,survey,regular
+1786772014,highway,bus_stop,regular
+1786772014,shelter,yes,regular
+1786772014,source,survey,regular
+1808359197,highway,crossing,regular
+1808359197,source,bing,regular
+1812433922,highway,bus_stop,regular
+1812433922,shelter,no,regular
+1812433922,source,survey,regular
+1824923189,amenity,bench,regular
+1824923189,backrest,no,regular
+1824923189,source,survey,regular
+1832608563,access,private,regular
+1832608563,city,Pittsburgh,addr
+1832608563,country,US,addr
+1832608563,housenumber,5206,addr
+1832608563,postcode,15232,addr
+1832608563,state,PA,addr
+1832608563,street,Ellsworth Avenue,addr
+1832608563,entrance,yes,regular
+1832608563,source,survey,regular
+1838673345,highway,bus_stop,regular
+1838673345,shelter,yes,regular
+1838673345,source,survey,regular
+1839123670,denotation,urban,regular
+1839123670,leaf_type,broadleaved,regular
+1839123670,natural,tree,regular
+1839123670,source,survey,regular
+1881729468,amenity,bicycle_parking,regular
+1881729468,covered,no,regular
+1881729468,fee,no,regular
+1969311818,highway,bus_stop,regular
+2013805640,crossing,uncontrolled,regular
+2013805640,highway,crossing,regular
+2034813750,railway,crossing,regular
+2034813750,source,bing,regular
+2127251896,housenumber,340,addr
+2127251896,street,Fifth Avenue,addr
+2127251896,name,Payless ShoeSource,regular
+2127251896,shop,shoes,regular
+2127251896,website,www.payless.com,regular
+2127251944,housenumber,344,addr
+2127251944,street,Fifth Avenue,addr
+2127251944,name,Rainbow Shops,regular
+2127251944,phone,(412) 261-8945,regular
+2127251944,shop,clothes,regular
+2127251944,website,www.rainbowshops.com/,regular
+2127279802,amenity,fast_food,regular
+2127279802,cuisine,sandwich,regular
+2127279802,name,Subway,regular
+2131915902,amenity,restaurant,regular
+2131915902,name,River City Inn,regular
+2131915902,opening_hours,Mo-Fr 11:00-2:00; Sa 17:00-2:00,regular
+2131915902,phone,+1 412-391-1707,regular
+2131915902,website,http://www.facebook.com/pages/River-City-Inn/107807639260645,regular
+2132270600,amenity,fast_food,regular
+2132270600,fax,412-471-7487,regular
+2132270600,name,Pita Pit,regular
+2132270600,opening_hours,Mo-Th 9:00-21:00; Fr 9:00-22:00; Sa 10:30-22:00; Su 10:30-19:00,regular
+2132270600,phone,412-471-7482,regular
+2132270600,website,http://www.pitapitusa.com/home.php,regular
+2132270730,name,VIP Styles,regular
+2132270730,phone,+1 412-434-0442,regular
+2132270730,shop,hairdresser,regular
+2132270730,website,http://www.facebook.com/pages/VIP-Styles/131579623525671,regular
+2133810139,level,1,regular
+2133810139,name,Kountz & Rider,regular
+2133810139,opening_hours,Mo-Fr 8:00-18:00; Sa 9:30-17:00,regular
+2133810139,shop,clothes,regular
+2139122380,amenity,fast_food,regular
+2139122380,cuisine,sandwich,regular
+2139122380,name,Subway,regular
+2139122380,website,www.subway.com,regular
+2142263359,housenumber,1937,addr
+2142263359,name,Advance Auto Parts,regular
+2142263359,opening_hours,Mo-Sa 7:30-21:00; Su 9:00-18:00,regular
+2142263359,phone,412-488-6100,regular
+2142263359,shop,car_parts,regular
+2142263359,website,http://shop.advanceautoparts.com,regular
+2173649279,barrier,entrance,regular
+2173732951,crossing,uncontrolled,regular
+2173732951,highway,crossing,regular
+2174857606,highway,steps,regular
+2174857606,source,Bing,regular
+2174857606,steps,http://upload.wikimedia.org/wikipedia/en/d/d5/SoldiersMemorial_Pittsburgh.jpg,source
+2174857606,steps,3,regular
+2174857636,artwork,statue,regular
+2174857636,artwork_type,statue,regular
+2174857636,source,Bing,regular
+2174857636,tourism,artwork,regular
+2174857651,artwork,statue,regular
+2174857651,artwork_type,statue,regular
+2174857651,layer,1,regular
+2174857651,source,Bing,regular
+2174857651,tourism,artwork,regular
+2295076983,amenity,restaurant,regular
+2295076983,name,Barb's Country Kitchen,regular
+2296357920,name,Giant Eagle,regular
+2296357920,shop,supermarket,regular
+2352589833,emergency,fire_hydrant,regular
+2352589833,type,pillar,fire_hydrant
+2353139520,amenity,post_box,regular
+2353633373,railway,switch,regular
+2430015573,amenity,stripclub,regular
+2430015573,name,Cheerleaders,regular
+2522985562,crossing,traffic_signals,regular
+2522985562,highway,crossing,regular
+2522985562,source,Bing,regular
+2551954017,denotation,urban,regular
+2551954017,natural,tree,regular
+2551954017,source,Bing,regular
+2551954017,type,conifer,regular
+2551954032,denotation,urban,regular
+2551954032,leaf_type,broadleaved,regular
+2551954032,natural,tree,regular
+2551954032,source,Bing,regular
+2631671683,city,Pittsburgh,addr
+2631671683,housenumber,247,addr
+2631671683,street,Atwood Street,addr
+2631671683,amenity,restaurant,regular
+2631671683,cuisine,pizza,regular
+2631671683,name,Antoon's Pizza,regular
+2631671683,opening_hours,11:00 - 02:30,regular
+2631671683,phone,+1 (412) 687-5446,regular
+2634770642,crossing,traffic_signals,regular
+2634770642,highway,crossing,regular
+2634770665,crossing,traffic_signals,regular
+2634770665,highway,crossing,regular
+2710170978,name,GameStop,regular
+2710170978,shop,video_games,regular
+2710170994,name,Gus Miller's Newsstand,regular
+2710170994,shop,books,regular
+2713700239,amenity,shelter,regular
+2713700239,name,Oval Shelter,regular
+2713700239,shelter_type,picnic_shelter,regular
+2713700239,source,http://www.pittsburghparks.org/userdocs/schenley-letter.pdf; http://apps.pittsburghpa.gov/dpw/picnic-shelter-information2014.pdf,regular
+2760047536,entrance,staircase,regular
+2795638631,amenity,fast_food,regular
+2795638631,cuisine,sandwich,regular
+2795638631,name,Einstein Brothers Bagels,regular
+2838855030,housenumber,1311,addr
+2838855030,street,Hamlin Street,addr
+2841075951,housenumber,1054,addr
+2841075951,postcode,15216,addr
+2841075951,street,Banksville Road,addr
+2841075951,building,house,regular
+2841076394,city,Pittsburgh,addr
+2841076394,country,US,addr
+2841076394,housenumber,1207,addr
+2841076394,postcode,15216,addr
+2841076394,state,PA,addr
+2841076394,street,Shadycrest Drive,addr
+2841076732,city,Pittsburgh,addr
+2841076732,country,US,addr
+2841076732,housenumber,1247,addr
+2841076732,postcode,15216,addr
+2841076732,state,PA,addr
+2841076732,street,Shadycrest Drive,addr
+2841077606,city,Pittsburgh,addr
+2841077606,country,US,addr
+2841077606,housenumber,1402,addr
+2841077606,postcode,15216,addr
+2841077606,state,PA,addr
+2841077606,street,Beechview Avenue,addr
+2841078525,housenumber,1522,addr
+2841078525,postcode,15216,addr
+2841078525,street,Dagmar Avenue,addr
+2841079005,city,Pittsburgh,addr
+2841079005,country,US,addr
+2841079005,housenumber,1551,addr
+2841079005,postcode,15216,addr
+2841079005,state,PA,addr
+2841079005,street,Canton Avenue,addr
+2841079159,city,Pittsburgh,addr
+2841079159,country,US,addr
+2841079159,housenumber,1613,addr
+2841079159,postcode,15216,addr
+2841079159,state,PA,addr
+2841079159,street,Alverado Street,addr
+2841085388,city,Pittsburgh,addr
+2841085388,country,US,addr
+2841085388,housenumber,590,addr
+2841085388,postcode,15216,addr
+2841085388,state,PA,addr
+2841085388,street,Crane Avenue,addr
+2841085388,amenity,school,regular
+2841085388,name,Brashear High School,regular
+2841085388,wikidata,Q4957776,regular
+2841085650,city,Pittsburgh,addr
+2841085650,country,US,addr
+2841085650,housenumber,722,addr
+2841085650,postcode,15216,addr
+2841085650,state,PA,addr
+2841085650,street,Shadycrest Court,addr
+2841086136,city,Pittsburgh,addr
+2841086136,country,US,addr
+2841086136,housenumber,931,addr
+2841086136,postcode,15216,addr
+2841086136,state,PA,addr
+2841086136,street,Banksville Road,addr
+2841156712,housenumber,301,addr
+2841156712,postcode,15214,addr
+2841156712,street,Venture Street,addr
+2841156782,housenumber,3507,addr
+2841156782,postcode,15214,addr
+2841156782,street,Sirius Street,addr
+2841156881,housenumber,3720,addr
+2841156881,postcode,15214,addr
+2841156881,street,Baytree Street,addr
+2841157377,housenumber,424,addr
+2841157377,postcode,15214,addr
+2841157377,street,Venture Street,addr
+2841157726,housenumber,108,addr
+2841157726,postcode,15214,addr
+2841157726,street,Dunlap Street,addr
+2841157838,city,Pittsburgh,addr
+2841157838,country,US,addr
+2841157838,housenumber,1703,addr
+2841157838,postcode,15214,addr
+2841157838,state,PA,addr
+2841157838,street,Meadville Street,addr
+2841157899,city,Pittsburgh,addr
+2841157899,country,US,addr
+2841157899,housenumber,1900,addr
+2841157899,postcode,15214,addr
+2841157899,state,PA,addr
+2841157899,street,Lithgow Street,addr
+2841157932,city,Pittsburgh,addr
+2841157932,country,US,addr
+2841157932,housenumber,1918,addr
+2841157932,postcode,15214,addr
+2841157932,state,PA,addr
+2841157932,street,Lithgow Street,addr
+2841157963,city,Pittsburgh,addr
+2841157963,country,US,addr
+2841157963,housenumber,20,addr
+2841157963,postcode,15214,addr
+2841157963,state,PA,addr
+2841157963,street,Norman Street,addr
+2841158005,housenumber,214,addr
+2841158005,postcode,15214,addr
+2841158005,street,Watson Boulevard,addr
+2841158075,housenumber,250,addr
+2841158075,postcode,15214,addr
+2841158075,street,Watson Boulevard,addr
+2841158123,housenumber,272,addr
+2841158123,postcode,15214,addr
+2841158123,street,Watson Boulevard,addr
+2841158154,city,Pittsburgh,addr
+2841158154,country,US,addr
+2841158154,housenumber,29,addr
+2841158154,postcode,15214,addr
+2841158154,state,PA,addr
+2841158154,street,Geranium Street,addr
+2841158236,housenumber,3111,addr
+2841158236,postcode,15214,addr
+2841158236,street,Viola Street,addr
+2841158350,housenumber,3404,addr
+2841158350,postcode,15214,addr
+2841158350,street,Colby Street,addr
+2841158929,city,Pittsburgh,addr
+2841158929,country,US,addr
+2841158929,housenumber,1,addr
+2841158929,postcode,15214,addr
+2841158929,state,PA,addr
+2841158929,street,Magnet Street,addr
+2841159321,city,Pittsburgh,addr
+2841159321,country,US,addr
+2841159321,housenumber,5,addr
+2841159321,postcode,15214,addr
+2841159321,state,PA,addr
+2841159321,street,Overlook Street,addr
+2841159364,city,Pittsburgh,addr
+2841159364,country,US,addr
+2841159364,housenumber,621,addr
+2841159364,postcode,15214,addr
+2841159364,state,PA,addr
+2841159364,street,Ridgewood Street,addr
+2841160226,housenumber,102,addr
+2841160226,postcode,15214,addr
+2841160226,street,Kennedy Avenue,addr
+2841160331,housenumber,215,addr
+2841160331,postcode,15214,addr
+2841160331,street,Pusey Street,addr
+2841160386,housenumber,2417,addr
+2841160386,postcode,15214,addr
+2841160386,street,North Charles Street,addr
+2841160425,housenumber,2461,addr
+2841160425,postcode,15214,addr
+2841160425,street,North Charles Street,addr
+2841160505,housenumber,2630,addr
+2841160505,postcode,15214,addr
+2841160505,street,Shelton Avenue,addr
+2841160558,housenumber,2660,addr
+2841160558,postcode,15214,addr
+2841160558,street,Shelton Avenue,addr
+2841160706,housenumber,2712,addr
+2841160706,postcode,15214,addr
+2841160706,street,Perrysville Avenue,addr
+2841160771,housenumber,2809,addr
+2841160771,postcode,15214,addr
+2841160771,street,Perrysville Avenue,addr
+2841160825,housenumber,2928,addr
+2841160825,postcode,15214,addr
+2841160825,street,Marshall Road,addr
+2841161134,city,Pittsburgh,addr
+2841161134,country,US,addr
+2841161134,housenumber,536,addr
+2841161134,postcode,15214,addr
+2841161134,state,PA,addr
+2841161134,street,Chester Avenue,addr
+2841161207,city,Pittsburgh,addr
+2841161207,country,US,addr
+2841161207,housenumber,651,addr
+2841161207,postcode,15214,addr
+2841161207,state,PA,addr
+2841161207,street,Chester Avenue,addr
+2841161266,city,Pittsburgh,addr
+2841161266,country,US,addr
+2841161266,housenumber,735,addr
+2841161266,postcode,15214,addr
+2841161266,state,PA,addr
+2841161266,street,Brightridge Street,addr
+2841161828,city,Pittsburgh,addr
+2841161828,country,US,addr
+2841161828,housenumber,16,addr
+2841161828,postcode,15214,addr
+2841161828,state,PA,addr
+2841161828,street,Kenwood Avenue,addr
+2841161877,city,Pittsburgh,addr
+2841161877,country,US,addr
+2841161877,housenumber,2126,addr
+2841161877,postcode,15214,addr
+2841161877,state,PA,addr
+2841161877,street,Metcalf Street,addr
+2841161922,city,Pittsburgh,addr
+2841161922,country,US,addr
+2841161922,housenumber,2214,addr
+2841161922,postcode,15214,addr
+2841161922,state,PA,addr
+2841161922,street,North Charles Street,addr
+2841161998,city,Pittsburgh,addr
+2841161998,country,US,addr
+2841161998,housenumber,226,addr
+2841161998,postcode,15214,addr
+2841161998,state,PA,addr
+2841161998,street,Chester Avenue,addr
+2841162200,city,Pittsburgh,addr
+2841162200,country,US,addr
+2841162200,housenumber,2404,addr
+2841162200,postcode,15214,addr
+2841162200,state,PA,addr
+2841162200,street,North Charles Street,addr
+2841162278,city,Pittsburgh,addr
+2841162278,country,US,addr
+2841162278,housenumber,2445,addr
+2841162278,postcode,15214,addr
+2841162278,state,PA,addr
+2841162278,street,Strauss Street,addr
+2841162328,city,Pittsburgh,addr
+2841162328,country,US,addr
+2841162328,housenumber,2533,addr
+2841162328,postcode,15214,addr
+2841162328,state,PA,addr
+2841162328,street,Perrysville Avenue,addr
+2841162379,housenumber,2614,addr
+2841162379,postcode,15214,addr
+2841162379,street,Norwood Avenue,addr
+2841162427,housenumber,2633,addr
+2841162427,postcode,15214,addr
+2841162427,street,Ellis Street,addr
+2841162475,city,Pittsburgh,addr
+2841162475,country,US,addr
+2841162475,housenumber,2702,addr
+2841162475,postcode,15214,addr
+2841162475,state,PA,addr
+2841162475,street,North Charles Street,addr
+2841162656,city,Pittsburgh,addr
+2841162656,country,US,addr
+2841162656,housenumber,317,addr
+2841162656,postcode,15214,addr
+2841162656,state,PA,addr
+2841162656,street,Elsdon Street,addr
+2841162693,housenumber,4,addr
+2841162693,postcode,15214,addr
+2841162693,street,Ellzey Street,addr
+2841162794,city,Pittsburgh,addr
+2841162794,country,US,addr
+2841162794,housenumber,511,addr
+2841162794,postcode,15214,addr
+2841162794,state,PA,addr
+2841162794,street,Chester Avenue,addr
+2841162833,city,Pittsburgh,addr
+2841162833,country,US,addr
+2841162833,housenumber,59,addr
+2841162833,postcode,15214,addr
+2841162833,state,PA,addr
+2841162833,street,Melrose Avenue,addr
+2841162863,city,Pittsburgh,addr
+2841162863,country,US,addr
+2841162863,housenumber,626,addr
+2841162863,postcode,15214,addr
+2841162863,state,PA,addr
+2841162863,street,Chautauqua Street,addr
+2841162894,housenumber,722,addr
+2841162894,postcode,15214,addr
+2841162894,street,Mount Pleasant Road,addr
+2841162920,housenumber,844,addr
+2841162920,postcode,15214,addr
+2841162920,street,Mount Pleasant Road,addr
+2841164432,housenumber,121,addr
+2841164432,postcode,15214,addr
+2841164432,street,Penfort Street,addr
+2841164470,housenumber,1315,addr
+2841164470,postcode,15214,addr
+2841164470,street,Chicago Street,addr
+2841164499,housenumber,142,addr
+2841164499,postcode,15214,addr
+2841164499,street,Mount Pleasant Road,addr
+2841164530,housenumber,148,addr
+2841164530,postcode,15214,addr
+2841164530,street,Hazlett Street,addr
+2841164553,housenumber,163,addr
+2841164553,postcode,15214,addr
+2841164553,street,Penfort Street,addr
+2841164580,housenumber,184,addr
+2841164580,postcode,15214,addr
+2841164580,street,Penfort Street,addr
+2841164611,city,Pittsburgh,addr
+2841164611,country,US,addr
+2841164611,housenumber,205,addr
+2841164611,postcode,15214,addr
+2841164611,state,PA,addr
+2841164611,street,West Burgess Street,addr
+2841164647,housenumber,222,addr
+2841164647,postcode,15214,addr
+2841164647,street,Venture Street,addr
+2841164690,city,Pittsburgh,addr
+2841164690,country,US,addr
+2841164690,housenumber,2349,addr
+2841164690,postcode,15214,addr
+2841164690,state,PA,addr
+2841164690,street,Hazelton Street,addr
+2841164715,housenumber,2513,addr
+2841164715,postcode,15214,addr
+2841164715,street,North Charles Street,addr
+2841164756,housenumber,2638,addr
+2841164756,postcode,15214,addr
+2841164756,street,Palisade Lane,addr
+2841164804,housenumber,3102,addr
+2841164804,postcode,15214,addr
+2841164804,street,Perrysville Avenue,addr
+2841164837,housenumber,335,addr
+2841164837,postcode,15214,addr
+2841164837,street,Mount Pleasant Road,addr
+2841164869,housenumber,351,addr
+2841164869,postcode,15214,addr
+2841164869,street,Mount Pleasant Road,addr
+2841164890,housenumber,3657,addr
+2841164890,postcode,15214,addr
+2841164890,street,Baytree Street,addr
+2841165014,housenumber,380,addr
+2841165014,postcode,15214,addr
+2841165014,street,Mount Pleasant Road,addr
+2841165047,housenumber,406,addr
+2841165047,postcode,15214,addr
+2841165047,street,Mount Pleasant Road,addr
+2841165159,city,Pittsburgh,addr
+2841165159,country,US,addr
+2841165159,housenumber,5,addr
+2841165159,postcode,15214,addr
+2841165159,state,PA,addr
+2841165159,street,Russell Street,addr
+2841165187,housenumber,600,addr
+2841165187,postcode,15214,addr
+2841165187,street,Mount Pleasant Road,addr
+2841165207,city,Pittsburgh,addr
+2841165207,country,US,addr
+2841165207,housenumber,635,addr
+2841165207,postcode,15214,addr
+2841165207,state,PA,addr
+2841165207,street,Chautauqua Street,addr
+2841165232,housenumber,723,addr
+2841165232,postcode,15214,addr
+2841165232,street,Mount Pleasant Road,addr
+2841165255,housenumber,746,addr
+2841165255,postcode,15214,addr
+2841165255,street,Mount Pleasant Road,addr
+2841165276,housenumber,804,addr
+2841165276,postcode,15214,addr
+2841165276,street,Mount Pleasant Road,addr
+2841165310,housenumber,848,addr
+2841165310,postcode,15214,addr
+2841165310,street,Mount Pleasant Road,addr
+2841165331,housenumber,867,addr
+2841165331,postcode,15214,addr
+2841165331,street,Mount Pleasant Road,addr
+2841178060,housenumber,115,addr
+2841178060,postcode,15206,addr
+2841178060,street,South Aiken Avenue,addr
+2888291940,bicycle,yes,regular
+2888291940,crossing,traffic_signals,regular
+2888291940,crossing_ref,zebra,regular
+2888291940,highway,crossing,regular
+2888291940,source,bing,regular
+2985643108,emergency,fire_hydrant,regular
+2985643108,type,pillar,fire_hydrant
+3046493879,historic,memorial,regular
+3046493879,name,The Hiker - Spanish American War Memorial,regular
+3068258454,barrier,lift_gate,regular
+3068258454,source,survey,regular
+3078289263,name,Oakcliffe,regular
+3078289263,place,neighbourhood,regular
+3167104191,crossing,zebra,regular
+3167104191,highway,crossing,regular
+3171926743,railway,level_crossing,regular
+3171926743,source,survey,regular
+3192430395,crossing,uncontrolled,regular
+3192430395,highway,crossing,regular
+3192430395,source,bing,regular
+3193364481,crossing,traffic_signals,demolished
+3193364481,highway,crossing,demolished
+3235589012,power,pole,regular
+3235589027,power,pole,regular
+3235589042,power,pole,regular
+3235589057,source,bing,regular
+3235589057,tourism,viewpoint,regular
+3277882120,crossing,uncontrolled,regular
+3277882120,highway,crossing,regular
+3295862029,crossing,uncontrolled,regular
+3295862029,highway,crossing,regular
+3295862029,source,bing,regular
+3305302863,amenity,post_box,regular
+3305302863,drive_through,yes,regular
+3305302863,operator,USPS,regular
+3305302924,crossing,uncontrolled,regular
+3305302924,highway,crossing,regular
+3305302924,source,bing,regular
+3401272875,barrier,bollard,regular
+3401272875,source,bing;survey,regular
+3495531070,highway,crossing,regular
+3495531070,source,bing,regular
+3533819792,fixme,Do these streets connect?,regular
+3534619855,highway,crossing,regular
+3534619855,source,bing,regular
+3552270773,amenity,restaurant,regular
+3552270773,name,Micro Diner,regular
+3552270773,phone,412 381 1391,regular
+3583810908,direction,forward,regular
+3583810908,highway,stop,regular
+3651243707,crossing,traffic_signals,regular
+3651243707,highway,crossing,regular
+3705013851,amenity,bench,regular
+3705013851,layer,1,regular
+3706977369,crossing,traffic_signals,regular
+3706977369,highway,crossing,regular
+3712997025,name,Boggs Ave at Warrington Ave,regular
+3712997025,public_transport,platform,regular
+3712997126,railway,crossing,regular
+3712997126,source,bing,regular
+3714177807,amenity,waste_basket,regular
+3714177822,amenity,bicycle_parking,regular
+3714182337,amenity,waste_basket,regular
+3724121234,leisure,playground,regular
+3724121234,source,bing,regular
+3724219392,barrier,bollard,regular
+3724219392,source,bing;survey,regular
+3730605884,name,Jalen's,regular
+3730605884,phone,+1 412 734 3879,regular
+3730605884,shop,hairdresser,regular
+3758324637,city,Pittsburgh,addr
+3758324637,country,US,addr
+3758324637,housenumber,1901,addr
+3758324637,postcode,15214,addr
+3758324637,state,PA,addr
+3758324637,street,Brighton Road,addr
+3758324637,email,info@urbangardenerpgh.com,regular
+3758324637,fax,+1 412 323 1116,regular
+3758324637,name,Urban Gardner,regular
+3758324637,phone,+1 412 323 4769,regular
+3758324637,shop,garden_centre,regular
+3758324637,website,http://urbangardenerpgh.com,regular
+3773919360,housenumber,3809,addr
+3773919360,street,Brighton Road,addr
+3775783163,highway,crossing,regular
+3775960271,barrier,entrance,regular
+3778368622,housenumber,3241,addr
+3778368622,street,Brighton Road,addr
+3778368622,amenity,clinic,regular
+3778368622,name,Moriarty Home Healthcare,regular
+3781491070,amenity,restaurant,regular
+3781491070,cuisine,pizza; gyros,regular
+3781491070,name,Nick's Place,regular
+3781492660,highway,bus_stop,regular
+3790657872,housenumber,3615,addr
+3790657872,street,California Avenue,addr
+3790657872,amenity,kindergarten,regular
+3790657872,email,angelacademy@ymail.com,regular
+3790657872,name,Angel Academy,regular
+3790657872,phone,+1 412 766 2470,regular
+3790657902,amenity,waste_basket,regular
+3797395560,craft,sun_protection,regular
+3797395560,name,Awnings by Paul,regular
+3799361004,crossing,traffic_signals,regular
+3799361004,highway,crossing,regular
+3810416647,highway,bus_stop,regular
+3810425462,highway,bus_stop,regular
+3810425477,highway,bus_stop,regular
+3826035511,tourism,viewpoint,regular
+3826072471,natural,tree,regular
+3826072486,natural,tree,regular
+3826072501,natural,tree,regular
+3826084694,natural,tree,regular
+3826084742,natural,tree,regular
+3826104862,natural,tree,regular
+3828151978,natural,tree,regular
+3828152230,natural,tree,regular
+3828152849,natural,tree,regular
+3830180599,highway,crossing,regular
+3830180599,source,mapbox aerial,regular
+3830209773,barrier,gate,regular
+3830209773,source,bing,regular
+3830245482,amenity,bicycle_parking,regular
+3830245482,source,http://www.dcnr.state.pa.us/cs/groups/public/documents/document/dcnr_003297.pdf,regular
+3833826965,natural,tree,regular
+3833826981,natural,tree,regular
+3833827019,natural,tree,regular
+3833827038,natural,tree,regular
+3833827072,natural,tree,regular
+3836291757,housenumber,3689,addr
+3836291757,street,California Avenue,addr
+3836291757,name,State Representative Adam Ravenstahl,regular
+3836291757,office,yes,regular
+3855656235,amenity,bar,regular
+3855656235,name,Thunderbird Cafe,regular
+3861672292,name,West Penn Laco,regular
+3861672292,shop,yes,regular
+3861736759,name,Cricket,regular
+3861736759,shop,mobile_phone,regular
+3865713241,name,Lawrenceville Vision Care,regular
+3865713241,shop,optician,regular
+3865719171,crossing,uncontrolled,regular
+3865719171,highway,crossing,regular
+3867808364,amenity,bar,regular
+3867808364,atm,yes,regular
+3867808364,name,The Double L Bar,regular
+3886814062,housenumber,814,addr
+3886814062,street,Western Avenue,addr
+3889244050,amenity,restaurant,regular
+3889244050,cuisine,diner,regular
+3889244050,name,Millvale Diner,regular
+3889819005,bus,yes,regular
+3889819005,highway,bus_stop,regular
+3889819005,name,North Ave at Fremont St,regular
+3889819005,network,PAT,regular
+3889819005,operator,Port Authority of Allegheny County,regular
+3889819005,public_transport,stop_position,regular
+3889819005,ref,1141,regular
+3908899584,natural,tree,regular
+3910908206,advertising,billboard,regular
+3955654702,barrier,gate,regular
+4001089711,highway,crossing,regular
+4001089711,source,bing,regular
+4020926891,highway,crossing,regular
+4020926891,source,bing,regular
+4068343519,emergency,fire_hydrant,regular
+4068378820,amenity,post_box,regular
+4081644937,highway,crossing,regular
+4081644937,source,bing,regular
+4095602843,name,Hyatt House Pittsburgh / Bloomfield / Shadyside,regular
+4095602843,tourism,hotel,regular
+4134321434,housenumber,3837,addr
+4134321434,street,Brighton Road,addr
+4134321449,housenumber,3936,addr
+4134321449,street,Brighton Road,addr
+4166558589,name,The Used Car Store,regular
+4166558589,second_hand,only,regular
+4166558589,shop,car,regular
+4166558589,website,http://theusedcarstore.com,regular
+4196222893,leaf_cycle,deciduous,regular
+4196222893,natural,tree,regular
+4196222908,leaf_cycle,deciduous,regular
+4196222908,natural,tree,regular
+4232985369,highway,bus_stop,regular
+4232985369,shelter,yes,regular
+4232985369,source,USGS imagery;Pittsburgh Parks Riverview Park Map PDF,regular
+4301448585,highway,bus_stop,regular
+4301449480,bus,yes,regular
+4301449480,highway,bus_stop,regular
+4301449480,name,Fifth Avenue at Craft Avenue,regular
+4301449480,public_transport,platform,regular
+4301449480,ref,2561,regular
+4309533256,natural,tree,regular
+4416480794,housenumber,1724,addr
+4416480794,street,Brighton Road,addr
+4416499637,emergency,fire_hydrant,regular
+4493751853,highway,crossing,regular
+4493751853,source,bing,regular
+4501738806,access,no,regular
+4501738806,barrier,chain,regular
+4529303906,highway,stop,regular
+4576072221,name,PPG Public Parking,regular
+4576072221,office,company,regular
+4579993008,highway,traffic_signals,regular
+4601198910,railway,switch,regular
+4601198910,source,bing,regular
+4615742844,highway,crossing,regular
+4615742844,highway,bing,source
+4617393685,highway,crossing,regular
+4617393685,source,bing,regular
+4654621334,name,South Oakland,regular
+4654621334,place,neighbourhood,regular
+4724324209,railway,railway_crossing,regular
+4819208784,highway,crossing,regular
+4819208784,source,bing,regular
+4836768113,name,Dawn,regular
+4836768113,public_transport,stop_position,regular
+4836768113,ref,99974,regular
+4836768113,tram,yes,regular
+4836768129,bus,yes,regular
+4836768129,name,South Busway at Station Square,regular
+4836768129,public_transport,stop_position,regular
+4836768129,ref,9827,regular
+4836768144,bus,yes,regular
+4836768144,name,Sixth Ave at Smithfield St,regular
+4836768144,public_transport,stop_position,regular
+4836768144,ref,4833,regular
+4913640072,amenity,post_box,regular
+4962435214,door,hinged,regular
+4962435214,level,0,regular
+4962435214,name,Business Center Entrance South,regular
+4962537700,door,hinged,regular
+4962537700,level,0,regular
+4962537700,name,3 Rivers Restaurant Entrance,regular
+4962569242,door,revolving,regular
+4962569242,entrance,main,regular
+4962569242,level,0,regular
+4962569242,name,Point Park Entrance,regular
+4970931650,door,no,regular
+4970931650,level,1,regular
+4970931650,name,South Stairwell Entrance,regular
+4970947581,door,hinged,regular
+4970947581,level,1,regular
+4970947581,name,Ballroom 4 South Entrance,regular
+5002168704,crossing,unmarked,regular
+5002168704,highway,crossing,regular
+5002168719,highway,traffic_signals,regular
+5002172249,highway,stop,regular
+5002172294,highway,give_way,regular
+5002172324,crossing,traffic_signals,regular
+5002172324,highway,crossing,regular
+5002172459,crossing,traffic_signals,regular
+5002172459,highway,crossing,regular
+5002329323,direction,backward,regular
+5002329323,highway,stop,regular
+5002329428,direction,backward,regular
+5002329428,highway,stop,regular
+5002329443,crossing,uncontrolled,regular
+5002329443,highway,crossing,regular
+5002329458,crossing,unmarked,regular
+5002329458,highway,crossing,regular
+5002329518,crossing,traffic_signals,regular
+5002329518,highway,crossing,regular
+5010208059,crossing,unmarked,regular
+5010208059,highway,crossing,regular
+5010208470,crossing,uncontrolled,regular
+5010208470,highway,crossing,regular
+5010208500,crossing,unmarked,regular
+5010208500,highway,crossing,regular
+5054953526,natural,tree,regular
+5106122375,name,Pennant,regular
+5106122375,railway,halt,regular
+5106122375,wheelchair,no,regular
+5106122375,wikidata,Q7163376,regular
+5106122375,wikipedia,en:Pennant (PAT station),regular
+5152666849,city,Pittsburgh,addr
+5152666849,housenumber,606,addr
+5152666849,postcode,15222,addr
+5152666849,state,PA,addr
+5152666849,street,6th Street,addr
+5152666849,amenity,cafe,regular
+5152666849,name,Starbucks,regular
+5161995590,highway,traffic_signals,regular
+5161996453,highway,motorway_junction,regular
+5161996453,noref,yes,regular
+5161996758,crossing,traffic_signals,regular
+5161996758,crossing_ref,zebra,regular
+5161996758,highway,crossing,regular
+5161996818,crossing,traffic_signals,regular
+5161996818,highway,crossing,regular
+5161997038,crossing,traffic_signals,regular
+5161997038,highway,crossing,regular
+5164216701,highway,traffic_signals,regular
+5166276668,bench,yes,regular
+5166276668,bin,yes,regular
+5166276668,name,East Ohio St at Chestnut St,regular
+5166276668,public_transport,platform,regular
+5166276668,shelter,yes,regular
+5166276686,alt_name,Liberty Ave at Gateway #4,regular
+5166276686,bench,yes,regular
+5166276686,bin,yes,regular
+5166276686,highway,bus_stop,regular
+5166276686,name,Liberty Ave at Stanwix St,regular
+5166276686,public_transport,platform,regular
+5166276686,shelter,yes,regular
+5171316607,bus,yes,regular
+5171316607,highway,bus_stop,regular
+5171316607,name,Evergreen Ave at Emma St,regular
+5171316607,network,PAT,regular
+5171316607,operator,Port Authority of Allegheny County,regular
+5171316607,public_transport,stop_position,regular
+5171316607,ref,1136,regular
+5171318122,bench,no,regular
+5171318122,bin,yes,regular
+5171318122,highway,bus_stop,regular
+5171318122,name,East Ohio St at Grant Ave,regular
+5171318122,note,Served by routes 1 & 2,regular
+5171318122,public_transport,platform,regular
+5171318122,shelter,no,regular
+5173461981,crossing,traffic_signals,regular
+5173461981,highway,crossing,regular
+5175252824,bus,yes,regular
+5175252824,name,Grant St at Post Office,regular
+5175252824,network,PAT,regular
+5175252824,operator,Port Authority of Allegheny County,regular
+5175252824,public_transport,stop_position,regular
+5175252824,ref,3427,regular
+5175252839,amenity,bus_station,regular
+5175252839,bus,yes,regular
+5175252839,highway,bus_stop,regular
+5175252839,name,Greyhound Pittsburgh,regular
+5175252839,network,Greyhound,regular
+5175252839,operator,"Greyhound Lines, Inc.",regular
+5175252839,public_transport,stop_position,regular
+5175252870,crossing,uncontrolled,regular
+5175252870,crossing_ref,zebra,regular
+5175252870,highway,crossing,regular
+5176255537,bus,yes,regular
+5176255537,name,Grant St at Liberty Ave (Federal Building),regular
+5176255537,network,PAT,regular
+5176255537,operator,Port Authority of Allegheny County,regular
+5176255537,public_transport,stop_position,regular
+5176255537,ref,15287,regular
+5199278642,highway,traffic_signals,regular
+5199278642,traffic_signals,Traffic_Signal,regular
+5200818096,natural,tree,regular
+5201245077,natural,tree,regular
+5201246422,natural,tree,regular
+5201311849,natural,tree,regular
+5201362026,amenity,ice_cream,regular
+5201362026,name,Rita's,regular
+5203454330,natural,tree,regular
+5203454345,natural,tree,regular
+5204676430,city,Pittsburgh,addr
+5204676430,country,US,addr
+5204676430,housenumber,1611,addr
+5204676430,postcode,15216,addr
+5204676430,state,PA,addr
+5204676430,street,Canton Avenue,addr
+5204676445,city,Pittsburgh,addr
+5204676445,country,US,addr
+5204676445,housenumber,1534,addr
+5204676445,postcode,15216,addr
+5204676445,state,PA,addr
+5204676445,street,Methyl Street,addr
+5204676460,city,Pittsburgh,addr
+5204676460,country,US,addr
+5204676460,housenumber,1419,addr
+5204676460,postcode,15216,addr
+5204676460,state,PA,addr
+5204676460,street,Rutherford Avenue,addr
+5204676475,city,Pittsburgh,addr
+5204676475,country,US,addr
+5204676475,housenumber,1418,addr
+5204676475,postcode,15216,addr
+5204676475,state,PA,addr
+5204676475,street,Belasco Avenue,addr
+5205402772,natural,tree,regular
+5205402787,natural,tree,regular
+5205402802,natural,tree,regular
+5205402817,natural,tree,regular
+5205424230,natural,tree,regular
+5205424260,natural,tree,regular
+5205424275,natural,tree,regular
+5205450374,name,Steel City Market,regular
+5205450374,shop,clothes,regular
+5205450389,natural,tree,regular
+5205450405,natural,tree,regular
+5205472922,natural,tree,regular
+5205487132,natural,tree,regular
+5205506216,name,Priory Fine Pastries,regular
+5205506216,shop,pastry,regular
+5205507546,name,Wagsburgh,regular
+5205507546,shop,pet,regular
+5205520961,natural,tree,regular
+5205539201,natural,tree,regular
+5205581492,natural,tree,regular
+5206738084,amenity,bicycle_parking,regular
+5207513069,natural,tree,regular
+5207521938,natural,tree,regular
+5207521953,natural,tree,regular
+5207521968,natural,tree,regular
+5207537154,natural,tree,regular
+5207544588,natural,tree,regular
+5207597430,natural,tree,regular
+5207597445,natural,tree,regular
+5207597460,natural,tree,regular
+5207606945,natural,tree,regular
+5211512055,natural,tree,regular
+5211512070,natural,tree,regular
+5211531680,natural,tree,regular
+5211554039,natural,tree,regular
+5211554099,natural,tree,regular
+5211554144,natural,tree,regular
+5211603684,natural,tree,regular
+5211623061,natural,tree,regular
+5213041072,natural,tree,regular
+5213041087,natural,tree,regular
+5213041102,natural,tree,regular
+5213041117,natural,tree,regular
+5213041132,natural,tree,regular
+5213041147,natural,tree,regular
+5213041162,natural,tree,regular
+5213097035,natural,tree,regular
+5213097050,natural,tree,regular
+5213131363,natural,tree,regular
+5213131378,natural,tree,regular
+5213131394,natural,tree,regular
+5224854727,natural,tree,regular
+5224946897,natural,tree,regular
+5227265712,natural,tree,regular
+5227265872,natural,tree,regular
+5227311491,natural,tree,regular
+5227311506,natural,tree,regular
+5227325562,natural,tree,regular
+5237405141,natural,tree,regular
+5237405156,natural,tree,regular
+5237405231,natural,tree,regular
+5237428857,natural,tree,regular
+5237428872,natural,tree,regular
+5237439784,natural,tree,regular
+5238885352,natural,tree,regular
+5238885367,natural,tree,regular
+5238906061,natural,tree,regular
+5240344580,city,Pittsburgh,addr
+5240344580,housenumber,207,addr
+5240344580,postcode,15213,addr
+5240344580,state,PA,addr
+5240344580,street,Oakland Avenue,addr
+5240344580,amenity,cafe,regular
+5240344580,cuisine,coffee_shop,regular
+5240344580,name,Crazy Mocha,regular
+5240356676,city,Pittburgh,addr
+5240356676,housenumber,3608,addr
+5240356676,postcode,15213,addr
+5240356676,state,PA,addr
+5240356676,street,Fifth Avenue,addr
+5240356676,amenity,restaurant,regular
+5240356676,cuisine,thai,regular
+5240356676,name,Thai Hana Restaurant,regular
+5245891866,housenumber,3002,addr
+5245891866,postcode,15214,addr
+5245891866,street,Marshall Road,addr
+5246036237,housenumber,3320,addr
+5246036237,postcode,15214,addr
+5246036237,street,Delaware Street,addr
+5246325230,natural,tree,regular
+5247174835,natural,tree,regular
+5247174866,natural,tree,regular
+5247174881,natural,tree,regular
+5247229609,natural,tree,regular
+5247252138,natural,tree,regular
+5247252213,natural,tree,regular
+5247267179,natural,tree,regular
+5247380143,natural,tree,regular
+5247426788,natural,tree,regular
+5247426803,natural,tree,regular
+5247479165,natural,tree,regular
+5247479180,natural,tree,regular
+5247479195,natural,tree,regular
+5247479210,natural,tree,regular
+5247482025,natural,tree,regular
+5247482040,natural,tree,regular
+5247508763,natural,tree,regular
+5247508778,natural,tree,regular
+5247508793,natural,tree,regular
+5247554949,natural,tree,regular
+5247554994,natural,tree,regular
+5249882858,natural,tree,regular
+5249882873,natural,tree,regular
+5249882888,natural,tree,regular
+5249883033,natural,tree,regular
+5249929229,natural,tree,regular
+5249929274,natural,tree,regular
+5251431526,natural,tree,regular
+5251431541,natural,tree,regular
+5251433996,natural,tree,regular
+5251434011,natural,tree,regular
+5251441269,natural,tree,regular
+5251468917,natural,tree,regular
+5251468932,natural,tree,regular
+5251468947,natural,tree,regular
+5251478556,natural,tree,regular
+5253423694,natural,tree,regular
+5255072511,natural,tree,regular
+5255097259,natural,tree,regular
+5256722556,natural,tree,regular
+5256745382,natural,tree,regular
+5256745602,natural,tree,regular
+5257976206,access,yes,regular
+5257976206,leisure,park,regular
+5257976206,name,Polish Hill Community Garden,regular
+5258284141,amenity,bicycle_parking,regular
+5258284141,bicycle_parking,stands,regular
+5260998483,amenity,bench,regular
+5262184721,natural,tree,regular
+5265111741,natural,tree,regular
+5265141988,natural,tree,regular
+5265144838,natural,tree,regular
+5269185964,natural,tree,regular
+5269242414,natural,tree,regular
+5269247929,natural,tree,regular
+5271183564,natural,tree,regular
+5271183579,natural,tree,regular
+5271203320,natural,tree,regular
+5271231315,natural,tree,regular
+5271231330,natural,tree,regular
+5271232771,natural,tree,regular
+5271262413,natural,tree,regular
+5271264733,natural,tree,regular
+5278774520,natural,tree,regular
+5278881347,natural,tree,regular
+5278881362,natural,tree,regular
+5278900833,name,First National Trust Company,regular
+5278900833,office,yes,regular
+5278917411,natural,tree,regular
+5309155960,highway,stop,regular
+5309156282,man_made,mast,regular
+5309156282,type,lighting,tower
+5309156502,highway,give_way,regular
+5309156957,crossing,uncontrolled,regular
+5309156957,highway,crossing,regular
+5312909729,crossing,traffic_signals,regular
+5312909729,highway,crossing,regular
+5312909744,highway,crossing,regular
+5312909759,crossing,traffic_signals,regular
+5312909759,highway,crossing,regular
+5312909774,crossing,traffic_signals,regular
+5312909774,highway,crossing,regular
+5312909789,crossing,traffic_signals,regular
+5312909789,highway,crossing,regular
+5312909804,crossing,traffic_signals,regular
+5312909804,highway,crossing,regular
+5312909819,crossing,traffic_signals,regular
+5312909819,highway,crossing,regular
+5312909840,crossing,traffic_signals,regular
+5312909840,highway,crossing,regular
+5312910410,crossing,traffic_signals,regular
+5312910410,crossing_ref,zebra,regular
+5312910410,highway,crossing,regular
+5317312531,crossing,traffic_signals,regular
+5317312531,highway,crossing,regular
+5317312697,highway,traffic_signals,regular
+5317313602,noexit,yes,regular
+5317313797,crossing,uncontrolled,regular
+5317313797,highway,crossing,regular
+5317314144,highway,emergency_bay,regular
+5317314144,note,Emergency bay to right,regular
+5317314159,highway,emergency_bay,regular
+5317314159,note,Emergency bay to right,regular
+5320857834,direction,backward,regular
+5320857834,highway,stop,regular
+5320858429,crossing,uncontrolled,regular
+5320858429,highway,crossing,regular
+5320858429,source,bing,regular
+5320858504,crossing,unmarked,regular
+5320858504,highway,crossing,regular
+5322303796,natural,tree,regular
+5330240634,natural,tree,regular
+5330240694,natural,tree,regular
+5330240754,natural,tree,regular
+5330245759,natural,tree,regular
+5330245774,natural,tree,regular
+5335836139,natural,tree,regular
+5335865514,natural,tree,regular
+5335865729,natural,tree,regular
+5335865925,natural,tree,regular
+5335865940,natural,tree,regular
+5335865955,natural,tree,regular
+5335882949,natural,tree,regular
+5335882964,natural,tree,regular
+5335882994,natural,tree,regular
+5335883524,natural,tree,regular
+5335883729,natural,tree,regular
+5335943966,natural,tree,regular
+5335944071,natural,tree,regular
+5335982570,natural,tree,regular
+5336034828,natural,tree,regular
+5337685810,natural,tree,regular
+5337836639,entrance,yes,regular
+5337836669,natural,tree,regular
+5337866984,natural,tree,regular
+5338206640,natural,tree,regular
+5338206655,natural,tree,regular
+5338206670,natural,tree,regular
+5353426480,natural,tree,regular
+5353426510,natural,tree,regular
+5353518013,natural,tree,regular
+5357813826,natural,tree,regular
+5357813961,natural,tree,regular
+5357843919,natural,tree,regular
+5364544427,natural,tree,regular
+5364544487,natural,tree,regular
+5366091260,natural,tree,regular
+5366091275,natural,tree,regular
+5366126057,natural,tree,regular
+5366126087,natural,tree,regular
+5368993586,natural,tree,regular
+5369124397,natural,tree,regular
+5369131989,natural,tree,regular
+5369151240,natural,tree,regular
+5369169328,natural,tree,regular
+5377022835,city,Pittsburgh,addr
+5377022835,housenumber,148,addr
+5377022835,postcode,15213,addr
+5377022835,state,PA,addr
+5377022835,street,Oakland Avenue,addr
+5377022835,amenity,fast_food,regular
+5377022835,cuisine,pizza;sandwich;salad,regular
+5377022835,delivery,yes,regular
+5377022835,drive_through,no,regular
+5377022835,name,Pie Express,regular
+5377022835,opening_hours,"Su-We 11:00-22:00, Th-Sa 11:00-03:00",regular
+5377022835,outdoor_seating,no,regular
+5377022835,phone,+1-412-904-3291,regular
+5377022835,smoking,no,regular
+5377022835,takeaway,yes,regular
+5380022489,crossing,uncontrolled,regular
+5380022489,railway,crossing,regular
+5382222570,natural,tree,regular
+5382245186,natural,tree,regular
+5384512917,amenity,atm,regular
+5384512917,brand,WesBanco,regular
+5388010038,power,pole,regular
+5388462001,natural,tree,regular
+5388462016,natural,tree,regular
+5388463261,natural,tree,regular
+5388463431,natural,tree,regular
+5388465429,natural,tree,regular
+5388483471,man_made,flagpole,regular
+5388530057,natural,tree,regular
+5388530087,natural,tree,regular
+5388530102,natural,tree,regular
+5388544029,natural,tree,regular
+5388544044,natural,tree,regular
+5388544059,natural,tree,regular
+5390263213,natural,tree,regular
+5390265928,natural,tree,regular
+5390265988,highway,street_lamp,regular
+5390265988,lamp_type,electric,regular
+5390266003,highway,street_lamp,regular
+5390266003,lamp_type,electric,regular
+5391523448,natural,tree,regular
+5391523523,natural,tree,regular
+5391550869,natural,tree,regular
+5391550884,natural,tree,regular
+5394946385,natural,tree,regular
+5394947030,natural,tree,regular
+5397402023,natural,tree,regular
+5397402069,natural,tree,regular
+5397402084,natural,tree,regular
+5397448586,natural,tree,regular
+5397448631,natural,tree,regular
+5397448646,natural,tree,regular
+5406319134,natural,tree,regular
+5406319149,natural,tree,regular
+5406319164,natural,tree,regular
+5406459232,natural,tree,regular
+5406459277,natural,tree,regular
+5406459292,natural,tree,regular
+5406459307,natural,tree,regular
+5406459367,natural,tree,regular
+5406478587,natural,tree,regular
+5415521519,natural,tree,regular
+5417585606,natural,tree,regular
+5417586421,natural,tree,regular
+5417586436,natural,tree,regular
+5417586466,natural,tree,regular
+5417607728,natural,tree,regular
+5421653748,natural,tree,regular
+5421653823,natural,tree,regular
+5421653868,natural,tree,regular
+5421653988,natural,tree,regular
+5421654003,natural,tree,regular
+5421683400,natural,tree,regular
+5421683850,natural,tree,regular
+5421683865,natural,tree,regular
+5423729155,natural,tree,regular
+5434305743,natural,tree,regular
+5434305758,natural,tree,regular
+5434305818,natural,tree,regular
+5434305833,natural,tree,regular
+5434305848,natural,tree,regular
+5451079455,natural,tree,regular
+5451079745,natural,tree,regular
+5451079760,natural,tree,regular
+5451080055,natural,tree,regular
+5451080070,natural,tree,regular
+5451382566,natural,tree,regular
+5451382641,natural,tree,regular
+5451382701,natural,tree,regular
+5455164809,natural,tree,regular
+5455256681,natural,tree,regular
+5471059097,natural,tree,regular
+5472017954,natural,tree,regular
+5472017984,natural,tree,regular
+5472055433,natural,tree,regular
+5472055463,natural,tree,regular
+5472091229,natural,tree,regular
+5472091289,natural,tree,regular
+5472091320,natural,tree,regular
+5487043323,amenity,bicycle_parking,regular
+5487043323,bicycle_parking,bollard,regular
+5487043323,capacity,2,regular
+5538858550,natural,tree,regular
+5538858580,natural,tree,regular
+5538858595,natural,tree,regular
+5553608402,name,Allure,regular
+5553608402,shop,clothes,regular
+5553630790,city,Pittsburgh,addr
+5553630790,housenumber,1206,addr
+5553630790,postcode,15210,addr
+5553630790,state,PA,addr
+5553630790,street,Arlington Avenue,addr
+5553630790,amenity,cafe,regular
+5553630790,name,Black Forge Coffee House,regular
+5553630805,city,Pittsburgh,addr
+5553630805,housenumber,812,addr
+5553630805,postcode,15210,addr
+5553630805,state,PA,addr
+5553630805,street,East Warrington Avenue,addr
+5553630805,amenity,restaurant,regular
+5553630805,cuisine,pizza,regular
+5553630805,name,Paisano's Restaurant,regular
+5587366200,amenity,restaurant,regular
+5587366200,name,Burn Restaurant & Cigar Lounge,regular
+5590231332,leisure,outdoor_seating,regular
